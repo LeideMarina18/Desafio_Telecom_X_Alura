@@ -1,6 +1,6 @@
 # 📊 Desafio Alura/Oracle - Análise Exploratória da Evasão de Clientes  - Telecom
 
-Este projeto tem como objetivo realizar uma **análise exploratória de dados (EDA)** sobre a evasão de clientes (churn) em uma empresa de telecomunicações. A base de dados foi disponibilizada em **formato JSON**, e todas as etapas foram desenvolvidas no ambiente **Google Colaboratory**.
+Este projeto tem como objetivo realizar uma **análise exploratória de dados (EDA)** sobre a evasão de clientes em uma empresa de telecomunicações. A base de dados foi disponibilizada em **formato JSON**, e todas as etapas foram desenvolvidas no ambiente **Google Colaboratory**.
 
 ---
 
