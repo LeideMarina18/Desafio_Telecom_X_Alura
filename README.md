@@ -12,6 +12,15 @@ Avaliar padrões, identificar possíveis causas e entender comportamentos que le
 
 ## 📁 Estrutura do Projeto
 
+1. Importação de bibliotecas
+2. Extração dos Dados
+3. Conhecendo o Dataset
+4. Verificando Inconsistências nos Dados
+5. Coluna de Contas Diárias
+6. Padronização e Transformação de Dados (Opcional)
+7. Análise descritiva
+8. Distribuição de Evasão
+9. Relatório Telecom X
 - Base de dados fornecida pela Alura via github: https://github.com/ingridcristh/challenge2-data-science/blob/main/TelecomX_Data.json 
 - Gráficos e insights salvos durante o processo.
 - `README.md` – instruções e descrição do projeto.
